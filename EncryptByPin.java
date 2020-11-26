@@ -1,11 +1,6 @@
 import java.util.*;
 public class EncryptByPin {
 	
-	//Name - Ashish Dash
-	//Branch - CSIT
-	//sec - A
-	//registration no. 1941017024
-	
 	public static void main(String[] args) {
 			
 		Scanner sc=new Scanner(System.in);
